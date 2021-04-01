@@ -4,6 +4,7 @@ function boardGame($X,$Y) {
     //this is default OUTPUT. You can change it.
     $result = -404;
     
+    //bla bla bla 
     $steps=0;
     //write your Logic here:
     
