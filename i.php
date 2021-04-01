@@ -3,7 +3,7 @@ function boardGame($X,$Y) {
     
     //this is default OUTPUT. You can change it.
     $result = -404;
-    
+    new branch
     //bla bla bla 
     bomb om 
     $steps=0;
